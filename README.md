@@ -11,4 +11,5 @@ The main purpose of supermarkets is to provide availability of all the products 
 
 - Check [Prototype_Schematic.jpg](https://github.com/pawar-ashwin/Expedition-Plaza/blob/c8225321261d09635e04718d0657510bfde0f107/Prototype_Schematic.jpg) file for Prototype Schematic and all Electronic Component Connections.
 - Check [Prototype_Workng_Process.md](https://github.com/pawar-ashwin/Expedition-Plaza/blob/1fb61992ff03f376b84d65d03050d378d0701482/Prototype_Working_Process.md) file to understand the working of Prototype and Flow of project.
+- Check [Software-Sample-Code](https://github.com/pawar-ashwin/Expedition-Plaza/blob/4bbb01e7d0cadd2576b5f78d0e2dd583d40a0eb3/Software-Sample.py) to get an idea of software code used to retrieve the bill of customers by using their provided mobile number.
 
