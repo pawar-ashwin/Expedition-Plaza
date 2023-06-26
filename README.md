@@ -8,3 +8,5 @@ Here the `main reason of using RFID` is that, the use of RFID technology is incr
 The main purpose of supermarkets is to provide availability of all the products and save the time of the customers, but sometimes **customer gets frustrated while waiting in the queue at billing counter and sometimes**, they get confused while comparing the total price of all the products with the budget in the pocket before billing.
 
 `So, in this project, we created a hardware prototype by combining various electronic components and software. In addition to the hardware prototype, we created a sample software executable that can be used at billing counters to retrieve specific customer bill details using their provided mobile number. This sample software executable was created in Python with the help of additional modules, and the database used in this case is Firebase.`
+
+Check `https://github.com/pawar-ashwin/Expedition-Plaza/blob/c8225321261d09635e04718d0657510bfde0f107/Prototype_Schematic.jpg` for Prototype Schematic.
