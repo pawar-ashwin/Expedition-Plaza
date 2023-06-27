@@ -13,4 +13,5 @@ The main purpose of supermarkets is to provide availability of all the products 
 - Check [Prototype_Workng_Process.md](https://github.com/pawar-ashwin/Expedition-Plaza/blob/1fb61992ff03f376b84d65d03050d378d0701482/Prototype_Working_Process.md) file to understand the working of Prototype and Flow of project.
 - Check [Software-Sample-Code](https://github.com/pawar-ashwin/Expedition-Plaza/blob/f956c8407aace484d25d18f547c041f9c35756c2/Software-Sample.py) to get an idea of software code used to retrieve the bill of customers by using their provided mobile number. (Python Programming)
 - Check [Prototype Sourcecode](https://github.com/pawar-ashwin/Expedition-Plaza/blob/86b0bf57a6aa7670580eee8b0412b50f37dd6169/Prototype_Sourcecode.ino) to know the code of our working prototype. (Arduino Programming)
+- For clear insight on prototype design and connection of various components check [Prototype-Design](https://github.com/pawar-ashwin/Expedition-Plaza/blob/a08afca6683965049493258d7bd2695c24fd0523/Prototype-Design.fzz) fritzing file using [Fritzing software](https://fritzing.org/).
 
